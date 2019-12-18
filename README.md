@@ -25,14 +25,15 @@ Three main categories
 
 ## Structured Briefings
 *Current Scenario:* 
-1.	new or overtly technical call types leads to higher aht as advisor does not know what needs to be done, leading to dissatisfied customers
-2.	which lead to lower nps scores
+1.	New or overtly technical call types leads to higher AHT as advisor does not know what needs to be done, leading to dissatisfied customers
+2.	Which lead to lower NPS scores
 
 *Proposal*
-1.	a daily forum for advisors to share trending call types and new things that they have learnt
-2.	advisor takes five minutes daily to answer questions like "what i wish i knew yesterday" and "what microskill can i share today"
+1.	A daily forum for advisors to share trending call types and new things that they have learnt
+2.	Advisor takes five minutes daily to answer questions like "what i wish i knew yesterday" and "what microskill can i share today"
 3.	Team leaders choose the best answers to be shared in team briefing daily before shift
 4.	Comments from happy customers are read out to boost advisor confidence and morale
+
 *Key Metrics*
 1.	Which part of team briefing is most effective
 2.	Lowered aht and repeats
@@ -47,8 +48,9 @@ Three main categories
 2.	Focus equally on learning from own good calls, others' good calls, mistakes from bad calls
 3.	Dedicated systems which advisor can access, independent of team leader, to take ownership and responsibility for own performance and feedback
 4.	Short clips of decisive moments of calls, rather than full calls, as those moments determine the outcome of the conversation
+
 *Key Metrics*
-1.	Individual metric of nps and sts and detractors
+1.	Individual metric of NPS and STS and detractors
 2.	Individual objection-handling skills
 
 ## Overall Plan
