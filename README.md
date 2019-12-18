@@ -7,10 +7,10 @@ Three main categories
 
 
 ## Go-to Supervisor
-*Current Senario:* 
+*Current Scenario:* 
 1.	Over 50% of a team leader's time is spent in focused work like coachings, escalations, call monitoring and meetings. 
 2.	Task switching makes team leaders inefficient in focused work and lack of real time intervention leads to mistakes by advisors. 
-3.	Which result in audits like why was this call transferred and why was a sale not pitched on this call.
+3.	Which result in audits like "why was this call transferred" and "why was a sale not pitched on this call".
 
 *Proposal*
 1.	There is a go-to supervisor responsible for real time intervention
@@ -24,7 +24,7 @@ Three main categories
 
 
 ## Structured Briefings
-*Current Senario:* 
+*Current Scenario:* 
 1.	new or overtly technical call types leads to higher aht as advisor does not know what needs to be done, leading to dissatisfied customers
 2.	which lead to lower nps scores
 
@@ -38,7 +38,7 @@ Three main categories
 2.	Lowered aht and repeats
 
 ## Structured Coaching Systems
-*Current Senario:* 
+*Current Scenario:* 
 1.	Forty-five minutes weekly sessions with team leader where we listen to one or two calls for dissatisfied customers
 2.	Sessions are interrupted due to real time intervention being needed or rescheduled due to callflow
 
@@ -52,7 +52,7 @@ Three main categories
 2.	Individual objection-handling skills
 
 ## Overall Plan
-•	A pilot programme with two teams, one for OJT and one for relatively experienced advisors
-•	Weekly dip checks 
-•	Tracking standard metrics
-•	Tracking individual objection-handling skills and process expertise
+-	A pilot programme with two teams, one for OJT and one for relatively experienced advisors
+-	Weekly dip checks 
+-	Tracking standard metrics
+-	Tracking individual objection-handling skills and process expertise
